@@ -1,7 +1,6 @@
 
 ## 볼트 워크샵 vaultBasics
 
-
 ```
 # 볼트 버전 확인
 Vault v1.8.3 (73e85c3c21dfd1e835ded0053f08e3bd73a24ad6)
