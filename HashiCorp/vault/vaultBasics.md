@@ -94,6 +94,7 @@ curl http://localhost:8200/v1/sys/health | jq
 0k    "cluster_id": "528dfcf3-2b3e-7c87-37de-f356d7a62462"
    } 
 0 --:--:-- --:--:-- --:--:--  287k
+```
 
 **생성한 my-first-secret 시크릿을 통해 API 요청**
 
